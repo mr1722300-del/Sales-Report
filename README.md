@@ -118,7 +118,7 @@ Automated refresh logic using Power Query connections
 
 
 
-🚀 How to Use the Dashboard
+ How to Use the Dashboard
 
 
 Open the business_dashboard.xlsx file
