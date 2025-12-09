@@ -62,7 +62,7 @@ Interactive charts
 
 
 
-📊 Key Features
+ Key Features
 1. Data Loading
 
 
